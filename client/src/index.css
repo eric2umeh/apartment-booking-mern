@@ -16,5 +16,5 @@ button{
 }
 button.primary{
     background-color: #F5385D;
-    @apply bg-sky-600 p-2 w-full text-white rounded-2xl;
+    @apply bg-rose-600 p-2 w-full text-white rounded-2xl;
 }
